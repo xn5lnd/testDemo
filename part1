@@ -1,0 +1,7 @@
+public static void main(String[] args) {
+  String word_1 = "I";
+  String word_2 = "Love";
+  String word_3 = "You";
+  String word_4 = "!";
+  System.out.println("word_1"+"word_2"+"word_3"+""+"word_4");
+}
